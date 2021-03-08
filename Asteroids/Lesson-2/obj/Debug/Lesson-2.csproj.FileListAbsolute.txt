@@ -1,0 +1,7 @@
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Lesson-2\bin\Debug\Lesson-2.exe.config
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Lesson-2\bin\Debug\Lesson-2.exe
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Lesson-2\bin\Debug\Lesson-2.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Lesson-2\obj\Debug\Lesson-2.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Lesson-2\obj\Debug\Lesson-2.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Lesson-2\obj\Debug\Lesson-2.exe
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Lesson-2\obj\Debug\Lesson-2.pdb
