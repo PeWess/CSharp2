@@ -1,0 +1,19 @@
+C:\Users\PeeWee\source\repos\Asteroids\Homework\bin\Debug\Homework.exe.config
+C:\Users\PeeWee\source\repos\Asteroids\Homework\bin\Debug\Homework.exe
+C:\Users\PeeWee\source\repos\Asteroids\Homework\bin\Debug\Homework.pdb
+C:\Users\PeeWee\source\repos\Asteroids\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\Asteroids\Homework\obj\Debug\Homework.Properties.Resources.resources
+C:\Users\PeeWee\source\repos\Asteroids\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+C:\Users\PeeWee\source\repos\Asteroids\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\Asteroids\Homework\obj\Debug\Homework.exe
+C:\Users\PeeWee\source\repos\Asteroids\Homework\obj\Debug\Homework.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Homework\bin\Debug\Homework.exe.config
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Homework\bin\Debug\Homework.exe
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Homework\bin\Debug\Homework.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Homework\obj\Debug\Homework.Properties.Resources.resources
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Homework\obj\Debug\Homework.exe
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Homework\obj\Debug\Homework.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Asteroids\Homework\bin\Debug\GameLog.txt
