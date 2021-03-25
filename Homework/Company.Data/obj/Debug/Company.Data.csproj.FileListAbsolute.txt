@@ -1,0 +1,6 @@
+C:\Users\PeeWee\source\repos\Homework\Company.Data\bin\Debug\Company.Data.dll
+C:\Users\PeeWee\source\repos\Homework\Company.Data\bin\Debug\Company.Data.pdb
+C:\Users\PeeWee\source\repos\Homework\Company.Data\obj\Debug\Company.Data.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\Homework\Company.Data\obj\Debug\Company.Data.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\Homework\Company.Data\obj\Debug\Company.Data.dll
+C:\Users\PeeWee\source\repos\Homework\Company.Data\obj\Debug\Company.Data.pdb
