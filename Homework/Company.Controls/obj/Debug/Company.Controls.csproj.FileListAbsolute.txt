@@ -1,0 +1,28 @@
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\obj\Debug\Company.Controls.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\obj\Debug\WorkerControl.g.cs
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\obj\Debug\Company.Controls_MarkupCompile.cache
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\obj\Debug\Company.Controls_MarkupCompile.lref
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\bin\Debug\Company.Controls.dll
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\bin\Debug\Company.Controls.pdb
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\bin\Debug\Company.Data.dll
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\bin\Debug\Company.Data.pdb
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\obj\Debug\WorkerControl.baml
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\obj\Debug\Company.Controls.g.resources
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\obj\Debug\Company.Controls.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\obj\Debug\Company.Controls.csproj.CopyComplete
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\obj\Debug\Company.Controls.dll
+C:\Users\PeeWee\source\repos\Homework\Company.Controls\obj\Debug\Company.Controls.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\bin\Debug\Company.Controls.dll
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\bin\Debug\Company.Controls.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\bin\Debug\Company.Data.dll
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\bin\Debug\Company.Data.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\obj\Debug\Company.Controls.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\obj\Debug\WorkerControl.g.cs
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\obj\Debug\Company.Controls_MarkupCompile.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\obj\Debug\Company.Controls_MarkupCompile.lref
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\obj\Debug\WorkerControl.baml
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\obj\Debug\Company.Controls.g.resources
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\obj\Debug\Company.Controls.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\obj\Debug\Company.Controls.csproj.CopyComplete
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\obj\Debug\Company.Controls.dll
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Company.Controls\obj\Debug\Company.Controls.pdb

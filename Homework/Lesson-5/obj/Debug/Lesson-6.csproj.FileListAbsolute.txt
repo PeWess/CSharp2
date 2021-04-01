@@ -1,0 +1,10 @@
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-6.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\AddDepartment.g.cs
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\AddWorker.g.cs
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\MainWindow.g.cs
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\App.g.cs
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5_MarkupCompile.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5_MarkupCompile.lref
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5.exe
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5.pdb
