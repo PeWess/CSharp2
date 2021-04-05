@@ -1,0 +1,51 @@
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\bin\Debug\Lesson-5.exe.config
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\bin\Debug\Lesson-5.exe
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\bin\Debug\Lesson-5.pdb
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\bin\Debug\Company.Data.dll
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\bin\Debug\Company.Data.pdb
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\Lesson-5.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\MainWindow.g.cs
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\App.g.cs
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\Lesson-5_MarkupCompile.cache
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\Lesson-5_MarkupCompile.lref
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\MainWindow.baml
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\Lesson-5.g.resources
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\Lesson_5.Properties.Resources.resources
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\Lesson-5.csproj.GenerateResource.cache
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\Lesson-5.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\Lesson-5.csproj.CopyComplete
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\Lesson-5.exe
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\Lesson-5.pdb
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\bin\Debug\Company.Controls.dll
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\bin\Debug\Company.Controls.pdb
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\AddWorker.g.cs
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\AddWorker.baml
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\AddDepartment.g.cs
+C:\Users\PeeWee\source\repos\Homework\Lesson-5\obj\Debug\AddDepartment.baml
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\AddDepartment.g.cs
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\AddWorker.g.cs
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\MainWindow.g.cs
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\App.g.cs
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5_MarkupCompile.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5_MarkupCompile.lref
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5.exe
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\bin\Debug\Lesson-5.exe.config
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\bin\Debug\Lesson-5.exe
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\bin\Debug\Lesson-5.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\bin\Debug\Company.Controls.dll
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\bin\Debug\Company.Controls.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\AddDepartment.baml
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\AddWorker.baml
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\MainWindow.baml
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5.g.resources
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson_5.Properties.Resources.resources
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5.csproj.GenerateResource.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\obj\Debug\Lesson-5.csproj.CopyComplete
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\bin\Debug\CompanyCommunication.dll
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\bin\Debug\CompanyCommunication.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\Lesson-5\bin\Debug\CompanyCommunication.dll.config

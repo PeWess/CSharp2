@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YUkG8dy0JsmAjoR+3bq0SX+A0X4DyaO6Jx/enIRCIgFUM2YAN8gTlynL/SyiSElnzDAFuPFSwd53Jd6LPdJy7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PeeWee\\source\\repos\\Homework\\CompanyData\\CompanyData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PeeWee\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PeeWee\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
