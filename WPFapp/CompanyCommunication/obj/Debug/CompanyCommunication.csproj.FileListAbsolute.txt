@@ -1,0 +1,7 @@
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\CompanyCommunication\bin\Debug\CompanyCommunication.dll.config
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\CompanyCommunication\bin\Debug\CompanyCommunication.dll
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\CompanyCommunication\bin\Debug\CompanyCommunication.pdb
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\CompanyCommunication\obj\Debug\CompanyCommunication.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\CompanyCommunication\obj\Debug\CompanyCommunication.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\CompanyCommunication\obj\Debug\CompanyCommunication.dll
+C:\Users\PeeWee\source\repos\GeekBrains\C# 2\Homework\CompanyCommunication\obj\Debug\CompanyCommunication.pdb
